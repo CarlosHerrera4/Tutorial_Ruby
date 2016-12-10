@@ -1,1 +1,3 @@
-# Tutorial_Ruby
+# Tutorial Ruby
+
+First app. Blog
